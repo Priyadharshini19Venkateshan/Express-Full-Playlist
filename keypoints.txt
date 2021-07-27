@@ -1,0 +1,20 @@
+1. API,Endpoints,Contracts, Json contracts - Application Programming Interfaces
+
+UI   -> API  <- Backend
+the front end wont understand the backend code and vice versa
+therefore api comes into picture. its an comman bridge where both the parties will 
+understand.
+
+types -> public API and private/proctected API
+public api is publically exposed and can be plug into our appln 
+private api is negation of public api
+
+2. Express js is backend framework. built upon node js
+
+3. node js is server side scripting and express js is built on top of it.
+
+4. CONNECTION WITH MONGO DB USING MONGOOSE
+***importing moongose js module to connect with mongo db in index.js file(main file)
+var mongoose = require('mongoose');
+
+***
